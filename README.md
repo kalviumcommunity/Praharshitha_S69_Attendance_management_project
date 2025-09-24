@@ -11,7 +11,7 @@ Run: `java -cp src com.school.Main`
 ## Part 2 - Core Domain Modelling
 - Added `Student` and `Course` classes.
 - Used arrays to store multiple objects.
-- Displayed details of students and courses.
+- Displayed details of students and courses
 
 ## Part 3: Constructor Initialization & Auto-ID Generation
 - Implemented parameterized constructors in `Student` and `Course` classes for object initialization.
